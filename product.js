@@ -1,0 +1,83 @@
+const product= [
+    {
+    id:1,
+    name:'Vanilla Cake',
+    price:30,
+    size: ["small","medium","large"],
+    flavour:["vanilla","chocolate","strabrary"],
+    color:["white","blue","pink"],
+    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    available:true
+},
+    {
+    id:2,
+    name:'Red Velvet Cake',
+    price:40,
+    size: ["small","medium","large"],
+    flavour:["vanilla","chocolate","strabrary"],
+    color:["white","blue","pink"],
+    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    available:true
+},
+    {
+    id:3,
+    name:'Chocolate Cake',
+    price:25,
+    size: ["small","medium","large"],
+    flavour:["vanilla","chocolate","strabrary"],
+    color:["white","blue","pink"],
+    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    available:true
+},
+    {
+    id:4,
+    name:'Chocolava Cake',
+    price:30,
+    size: ["small","medium","large"],
+    flavour:["vanilla","chocolate","strabrary"],
+    color:["white","blue","pink"],
+    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    available:true
+},
+    {
+    id:1,
+    name:'Vanilla Cake',
+    price:30,
+    size: ["small","medium","large"],
+    flavour:["vanilla","chocolate","strabrary"],
+    color:["white","blue","pink"],
+    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    available:true
+},
+    {
+    id:2,
+    name:'Red Velvet Cake',
+    price:40,
+    size: ["small","medium","large"],
+    flavour:["vanilla","chocolate","strabrary"],
+    color:["white","blue","pink"],
+    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    available:true
+},
+    {
+    id:3,
+    name:'Chocolate Cake',
+    price:25,
+    size: ["small","medium","large"],
+    flavour:["vanilla","chocolate","strabrary"],
+    color:["white","blue","pink"],
+    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    available:true
+},
+    {
+    id:4,
+    name:'Chocolava Cake',
+    price:30,
+    size: ["small","medium","large"],
+    flavour:["vanilla","chocolate","strabrary"],
+    color:["white","blue","pink"],
+    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    available:true
+}
+
+]
